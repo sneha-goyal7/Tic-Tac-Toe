@@ -10,17 +10,8 @@ A clean, responsive two-player Tic Tac Toe game built with **HTML, CSS and vanil
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-[🎮 Live Demo](https://sneha-goyal7.github.io/Tic-Tac-Toe/) · [🐛 Report Bug](https://github.com/sneha-goyal7/Tic-Tac-Toe/issues) · [✨ Request Feature](https://github.com/sneha-goyal7/Tic-Tac-Toe/issues)
+[🎮 Live Demo](https://tic-tac-toe-game-sneha.netlify.app)· [🐛 Report Bug](https://github.com/sneha-goyal7/Tic-Tac-Toe/issues) · [✨ Request Feature](https://github.com/sneha-goyal7/Tic-Tac-Toe/issues)
 
-</div>
-
----
-
-## 📸 Preview
-
-<!-- Screenshot ko repo mein `assets/` folder mein daalo aur path update karo -->
-<div align="center">
-  <img src="assets/screenshot.png" alt="Tic Tac Toe Gameplay" width="600"/>
 </div>
 
 ---
